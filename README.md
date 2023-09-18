@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aswathi Vijayan</h1>
-<h3 align="center">A passionate Machine Learning And Computer Vision Engineer</h3>
+<h3 align="center">A passionate Machine Learning And AI Engineer</h3>
 <img align="right" alt=Coding" width="400" src="https://jnnce.ac.in/jnndemo/aiml.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswathinrp&label=Profile%20views&color=0e75b6&style=flat" alt="aswathinrp" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aswathinrp" alt="aswathinrp" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning & Computer Vision**
+- 🌱 I’m currently working as **AI/ML Engineer**
 
 - 💬 Ask me about **ML,AI,CV,Python**
 
